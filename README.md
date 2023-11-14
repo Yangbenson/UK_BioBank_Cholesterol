@@ -16,6 +16,13 @@ To elucidate the distribution and influence of **cholesterol** levels on the **p
 To understand how cholesterol interacts with other variables such as age, sex, BMI, and ethnicity.
 To evaluate the predictive power of cholesterol levels for outcomes like MI, dementia, and stroke using GBM.
 
+## model compare
+![image](https://github.com/Yangbenson/UK_BioBank_Cholesterol/assets/118023370/00a7b48b-5e21-4f3c-b0c3-10b4e9b257d5)
+
+## Feature compare
+![image](https://github.com/Yangbenson/UK_BioBank_Cholesterol/assets/118023370/66190571-8176-4bd0-aa7b-1e7fa6ad8ac1)
+
+
 # Conclusion
 
 Based on the provided data and model results, we can summarize the effect of cholesterol (Cholesterol) in different disease prediction models as follows:
