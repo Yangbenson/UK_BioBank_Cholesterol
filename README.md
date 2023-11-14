@@ -1,6 +1,6 @@
 UK_Biobank_PingHsien_Yang
 2023-11-08
-**# Introduction**
+# Introduction
 
 ## Cholesterol Impact Analysis on Health Outcome Predictive Models 
 
@@ -16,7 +16,7 @@ To elucidate the distribution and influence of **cholesterol** levels on the **p
 To understand how cholesterol interacts with other variables such as age, sex, BMI, and ethnicity.
 To evaluate the predictive power of cholesterol levels for outcomes like MI, dementia, and stroke using GBM.
 
-**# Conclusion**
+# Conclusion
 
 Based on the provided data and model results, we can summarize the effect of cholesterol (Cholesterol) in different disease prediction models as follows:
 
